@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -37,4 +38,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+## Sorting
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
