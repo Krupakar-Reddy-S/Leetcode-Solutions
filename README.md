@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -16,5 +17,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
