@@ -27,8 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Array
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
