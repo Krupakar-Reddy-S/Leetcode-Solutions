@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
+## String
+|  |
+| ------- |
+| [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
