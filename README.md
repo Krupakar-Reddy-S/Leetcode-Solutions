@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1304-longest-happy-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Two Pointers
 |  |
@@ -61,5 +63,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1304-longest-happy-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 <!---LeetCode Topics End-->
