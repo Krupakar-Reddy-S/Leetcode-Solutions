@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0670-maximum-swap](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0670-maximum-swap) |
+| [2187-vowels-of-all-substrings](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [2187-vowels-of-all-substrings](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1304-longest-happy-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2187-vowels-of-all-substrings](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |
@@ -101,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Combinatorics
+|  |
+| ------- |
+| [2187-vowels-of-all-substrings](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
