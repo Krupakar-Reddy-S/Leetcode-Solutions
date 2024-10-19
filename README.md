@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1249-snapshot-array](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1249-snapshot-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Greedy
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
