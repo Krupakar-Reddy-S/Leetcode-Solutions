@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1249-snapshot-array](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 ## Array
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
+| [1249-snapshot-array](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Greedy
@@ -80,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1249-snapshot-array) |
+## Design
+|  |
+| ------- |
+| [1249-snapshot-array](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 <!---LeetCode Topics End-->
