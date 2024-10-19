@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1249-snapshot-array) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Simulation
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
