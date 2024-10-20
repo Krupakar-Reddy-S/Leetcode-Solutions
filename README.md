@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1249-snapshot-array](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1249-snapshot-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1961-maximum-ice-cream-bars](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Greedy
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
+| [1961-maximum-ice-cream-bars](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1961-maximum-ice-cream-bars](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -114,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
+## Counting Sort
+|  |
+| ------- |
+| [1961-maximum-ice-cream-bars](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
