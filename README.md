@@ -78,11 +78,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1197-parsing-a-boolean-expression](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2187-vowels-of-all-substrings](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2187-vowels-of-all-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/3195-separate-black-and-white-balls) |
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1249-snapshot-array](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1249-snapshot-array) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Design
 |  |
 | ------- |
