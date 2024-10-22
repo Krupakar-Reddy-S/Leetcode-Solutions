@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -14,11 +15,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1961-maximum-ice-cream-bars](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1961-maximum-ice-cream-bars) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
