@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0988-flip-equivalent-binary-trees](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1035-cousins-in-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/1035-cousins-in-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Krupakar-Reddy-S/Leetcode-Solutions/tree/master/2677-cousins-in-binary-tree-ii) |
